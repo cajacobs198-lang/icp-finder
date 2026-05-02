@@ -1,0 +1,31 @@
+domain,name,industry,country,employee_count,description,technologies
+stripe.com,Stripe,Fintech,US,8500,Online payment processing for internet businesses,Ruby;Go;React
+plaid.com,Plaid,Fintech,US,1200,Bank API for fintech apps,Go;Python;React
+brex.com,Brex,Fintech,US,1100,Corporate cards and finance for startups,Python;Go;TypeScript
+ramp.com,Ramp,Fintech,US,950,Corporate cards with built-in spend management,TypeScript;Python
+mercury.com,Mercury,Fintech,US,650,Banking for startups,Elixir;TypeScript
+pilot.com,Pilot,Fintech,US,400,Bookkeeping and CFO services for startups,Python;React
+airbnb.com,Airbnb,Travel Tech,US,6800,Marketplace for short-term rentals,Ruby;React;Java
+booking.com,Booking.com,Travel Tech,NL,21000,Online travel agency,Java;Perl;React
+notion.so,Notion,Productivity Software,US,800,Connected workspace,TypeScript;Rust
+linear.app,Linear,Productivity Software,US,90,Issue tracking for software teams,TypeScript;React
+asana.com,Asana,Productivity Software,US,1700,Work management platform,JavaScript;Python
+clickup.com,ClickUp,Productivity Software,US,950,All-in-one productivity,Angular;Node
+shopify.com,Shopify,E-commerce,CA,11000,Commerce platform for merchants,Ruby;React;Go
+bigcommerce.com,BigCommerce,E-commerce,US,1100,Headless commerce platform,PHP;React
+segment.com,Segment,Marketing Technology,US,800,Customer data platform,Go;Node
+hubspot.com,HubSpot,Marketing Technology,US,8000,Inbound marketing CRM,Java;React
+outreach.io,Outreach,Sales Engagement,US,1100,Sales engagement platform,Python;React
+apollo.io,Apollo,Sales Engagement,US,900,B2B sales intelligence and engagement,Node;React
+gong.io,Gong,Revenue Intelligence,US,1500,Revenue intelligence platform,Java;Python
+chorus.ai,Chorus,Revenue Intelligence,US,300,Conversation intelligence,Python;React
+zendesk.com,Zendesk,Customer Support,US,6000,Customer service software,Ruby;Java
+intercom.com,Intercom,Customer Support,IE,1200,Customer messaging platform,Ruby;React
+front.com,Front,Customer Support,US,400,Shared inbox for teams,JavaScript;React
+airtable.com,Airtable,Productivity Software,US,800,Spreadsheet-database hybrid,JavaScript;React
+figma.com,Figma,Design Tools,US,1300,Collaborative design,TypeScript;C++
+zoom.us,Zoom,Communications,US,7000,Video conferencing,C++;React
+slack.com,Slack,Communications,US,2500,Workplace messaging,Java;React
+datadoghq.com,Datadog,Observability,US,7400,Monitoring and security platform,Go;Python
+snowflake.com,Snowflake,Data Warehousing,US,7800,Cloud data warehouse,Java;C++
+databricks.com,Databricks,Data Warehousing,US,7400,Data and AI platform,Scala;Python
